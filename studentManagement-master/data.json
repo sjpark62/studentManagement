@@ -1,0 +1,29 @@
+[{"firstname":"Sungjun",
+    "lastname":"Park",
+    "email":"sjpark@gmail.com",
+    "location":["Princeton","Newyork","California"],
+    "phone":"1231231234",
+    "address":{
+        "communication":"Nowhere",
+        "permanent":"Korea"},
+        "marks":{
+            "english":"100",
+            "science":"100",
+            "computers":"100",
+            "hardware":"100"}
+    },
+    {"firstname":"Yeny",
+        "lastname":"Lim",
+        "email":"yeny@gmail.com",
+        "location":["Princeton","Newyork","California"],
+        "phone":"1234441234",
+        "address":{
+            "communication":"Nowhere",
+            "permanent":"Korea"},
+            "marks":{
+                "english":"100",
+                "science":"100",
+                "computers":"100",
+                "hardware":"100"}
+        }
+]
